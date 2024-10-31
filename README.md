@@ -3,7 +3,7 @@
 
 The objective of the analysis is to understand buyers, what led people to choose their properties when they searched, the data has information on commercial properties and residences.
 
-[![python](https://photos.app.goo.gl/Ba9trxtxU26styfo6)]()
+[![london](https://photos.app.goo.gl/Ba9trxtxU26styfo6)]()
 
 
 the data was made available on the website
